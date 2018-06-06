@@ -1,0 +1,12 @@
+{
+    "name": "kairo/google",
+    "authors": [
+        {
+            "name": "Kairo Rodrigues dos Santos",
+            "email": "kairo.santos@sensedia.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
